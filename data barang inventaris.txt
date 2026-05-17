@@ -1,0 +1,17 @@
+Meja kursi murid 324
+Meja kursi guru di ruang kelas 18
+Ac 10
+Lemari besi 3
+Meja kursi guru di ruang guru 
+Meja kursi kepsek 2
+Sofa 1 set tanpa meja
+Ruang TU meja 2 bangku 2
+Ruang wakil meja 2 kursi 3
+Ruang UKS meja 1
+Kursi 3
+Komputer 1 di ruang TU
+Mesin absen 2
+Printer 2
+Lcd 1
+Laptop 2
+Kursi tunggu 1
